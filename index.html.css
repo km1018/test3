@@ -1,0 +1,204 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: n_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: n_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#n_4 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1 {
+	fill: rgba(255,229,225,1);
+}
+.n_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_i {
+	fill: rgba(255,246,246,1);
+}
+.n_1_i {
+	position: absolute;
+	overflow: visible;
+	width: 1338px;
+	height: 1338px;
+	left: -59px;
+	top: -504px;
+}
+#n_2 {
+	fill: rgba(255,246,246,1);
+}
+.n_2 {
+	position: absolute;
+	overflow: visible;
+	width: 697px;
+	height: 698px;
+	left: 1504px;
+	top: 666px;
+}
+#Lee_Kyung_Min {
+	left: 130px;
+	top: 113px;
+	position: absolute;
+	overflow: visible;
+	width: 997px;
+	height: 194px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 130px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#n_3 {
+	position: absolute;
+	width: 986px;
+	height: 48px;
+	left: 140px;
+	top: 310px;
+	overflow: visible;
+}
+#n_2_m {
+	position: absolute;
+	width: 352px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Web_Design___ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 353px;
+	height: 48px;
+	text-align: left;
+	font-family: Acumin Pro Wide;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 50px;
+	color: rgba(38,38,38,1);
+}
+#n_1_o {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_o {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 36px;
+	left: 318.5px;
+	top: 6.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_1_p {
+	position: absolute;
+	width: 637px;
+	height: 31px;
+	left: 349px;
+	top: 12px;
+	overflow: visible;
+}
+#Personal_Portfolio_Website_Mai {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 638px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Acumin Pro Wide;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(38,38,38,1);
+}
+#Computer_Graphics_1 {
+	left: 140px;
+	top: 520px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Computer_Graphics_2 {
+	left: 1072px;
+	top: 520px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Component {
+	position: absolute;
+	width: 706px;
+	height: 397px;
+	left: 140px;
+	top: 585px;
+	overflow: visible;
+}
+#Rectangle {
+	position: absolute;
+	width: 706px;
+	height: 397px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n___1 {
+	position: absolute;
+	width: 708px;
+	height: 398px;
+	left: 1072px;
+	top: 585px;
+	overflow: visible;
+}
